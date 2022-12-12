@@ -1,0 +1,5 @@
+[workspace]
+members = [
+	"retrieve-state",
+	"dry-run-deploys",
+]
